@@ -1,7 +1,4 @@
 # CipherStream-128X
-A fully pipelined, AXI4-enabled AES-128 hardware accelerator IP core designed in Verilog for high-throughput, real-time data streaming.
-<br>
-# CipherStream-128X
 
 The CipherStream-128X is a fully unrolled, 10-stage pipelined AES-128 hardware accelerator designed for high-throughput, deterministic encryption in hostile environments. It integrates with a custom AXI4-Lite memory-mapped interface to ensure seamless SoC compatibility and strict protocol adherence.
 
